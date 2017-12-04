@@ -19,9 +19,11 @@ description: >
 	Random rant between code, electronics and drones.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://jekyll.lenbitz.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lano78
-github_username:  larsnordstrom
-instagram_username: lenbitzFPV
+
+username_twitter: lano78
+usename_github: larsnordstrom
+username_instagram: lenbitzFPV
+username_youtube: lenbitzFPV
 
 # Build settings
 markdown: kramdown
