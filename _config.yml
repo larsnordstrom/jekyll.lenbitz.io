@@ -24,6 +24,9 @@ usename_github: larsnordstrom
 username_instagram: lenbitzFPV
 username_youtube: lenbitzFPV
 
+timezone: Europe/Stockholm
+encoding: utf-8
+
 # Build settings
 markdown: kramdown
 theme: minima
