@@ -45,6 +45,9 @@ exclude:
   - lenbitz.io.sublime-workspace
   - circle.yml
   - travis.yml
+  - .jekyll-metadata
+  - .DS_Store
+  
   
 atom:
   buildCommand:
