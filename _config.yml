@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Lenbitz.io
 email: lenbitz@lenbitz.io
-description: > 
-	Random rant between code, electronics and drones.
+description: > #
+	"Random rant between code, electronics and drones."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://jekyll.lenbitz.io" # the base hostname & protocol for your site, e.g. http://example.com
 
