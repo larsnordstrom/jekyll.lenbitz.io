@@ -4,4 +4,4 @@ title: BLOG
 permalink: /blog/
 ---
 
-this is the blog page
+This is the blog page!!
