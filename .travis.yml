@@ -16,10 +16,5 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  #- "FTP_USER=xxx"
-  #- "FTP_PASSWORD=xxx"
-
-after_success:
-	# "curl --ftp-create-dirs -T uploadfilename -u $FTP_USER:$FTP_PASSWORD ftp://sitename.com/directory/myfile"
 	
 sudo: false
