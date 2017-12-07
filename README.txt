@@ -1,1 +1,1 @@
-Hello World!\n
+Testing JekyllRB with Travis-ci automated builds.
