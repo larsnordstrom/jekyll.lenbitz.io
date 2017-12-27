@@ -1,0 +1,14 @@
+# FPVmodel.com
+
+# Site codes
+site_fpvmodel_affiliate_id: 14A5F09C87FF9EB9
+site_fpvmodel_affiliate_code: https://www.fpvmodel.com/?u=14A5F09C87FF9EB9
+site_fpvmodel_base_url: https://www.fpvmodel.com/
+# Products
+site_fpvmodel_esc_betaflight_32bit: /betaflight-32bit-35a-2-6s-blheli_32-esc-dshot1200_g1330.html?u=14A5F09C87FF9EB9
+site_fpvmodel_esc_kiss_24_race: /kiss-esc-2-5s-24a-race-edition-v1-03-a-set-of-4pcs_g1230.html?u=14A5F09C87FF9EB9
+site_fpvmodel_fc_betaf4: /betaflightf4-flight-controller_g1351.html?u=14A5F09C87FF9EB9
+site_fpvmodel_fc_kiss_v2: /kiss-fc-v2-32bit-f7-flight-controller_g1364.html?u=14A5F09C87FF9EB9
+site_fpvmodel_gimbal_m9: /frsky-m-9-hall-sensor-gimbal-for-taranis-x9d-x9d-plus_g1251.html?u=14A5F09C87FF9EB9
+site_fpvmodel_camera_swift_2: /runcam-swift-2-1-3-ccd-ir-blocked-micro-camera-fov-150-degree-2-3mm-integrated-osd-mic_g1244.html?u=14A5F09C87FF9EB9
+site_fpvmodel_frsky_xsr: /frsky-xsr-2-4ghz-16ch-accst-receiver-s-bus-cppm-output-support-x9d-x9e-x9dp-x12s-x-series_g1140.html?u=14A5F09C87FF9EB9

@@ -14,4 +14,4 @@ deployment:
   prod:
     branch: master
     commands:
-      - rsync -va --delete ./_site larsnordstrom@jekyll-lenbitz:/var/html
+      - rsync -va --delete ./_site larsnordstrom@jekyll.lenbitz:/var/html
