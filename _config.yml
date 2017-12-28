@@ -19,6 +19,8 @@ description: Random rant about code, electronics and drones.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://jekyll.lenbitz.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+
+# Social media usernames etc
 username_twitter: lano78
 usename_github: larsnordstrom
 username_instagram: lenbitzFPV
@@ -27,6 +29,10 @@ username_paypal: lano78
 username_bitcoin: abc
 username_patreon: lenbitzfpv
 
+# google analytics
+google_analytics: 0000
+
+# Locales
 timezone: Europe/Stockholm
 encoding: utf-8
 
@@ -37,6 +43,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+
+# These are to be excluded
 exclude:
   - Gemfile
   - Gemfile.lock
