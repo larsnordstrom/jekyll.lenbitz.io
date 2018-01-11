@@ -30,7 +30,7 @@ username_bitcoin: abc
 username_patreon: lenbitzfpv
 
 # google analytics
-google_analytics: 0000
+google_analytics: UA-55007807-1
 
 # Locales
 timezone: Europe/Stockholm
