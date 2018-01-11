@@ -7,4 +7,3 @@ tag: p5js
 ---
 # Testing P5js
 
-<script src="assets/p5/games/test-game.js"></script>
