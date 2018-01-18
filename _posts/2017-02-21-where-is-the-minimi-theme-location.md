@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to locate the minimi theme
+title:  "How to locate the minimi theme"
 date:   21:03 2017-02-21
 categories: posts
 tag: minimi
