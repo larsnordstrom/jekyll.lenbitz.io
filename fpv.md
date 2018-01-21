@@ -1,7 +1,7 @@
 ---
-layout: default
 title: FPV
-permalink: /fpv/
+layout: fpv
+permalink: "/fpv/"
 ---
 
-this is the fpv page
+This is the page with FPV related content.
