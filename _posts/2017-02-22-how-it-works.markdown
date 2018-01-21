@@ -1,5 +1,9 @@
 ---
 layout: post
-title: "how it works"
-date: "2017-02-22 18:15:40 +0100"
+title: How it works
+date: 18:15 2017-02-22 
+categories: blog
+tags: [how to, instructions]
 ---
+
+It just does
