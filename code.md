@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: code
 title: CODE
 permalink: /code/
 ---
