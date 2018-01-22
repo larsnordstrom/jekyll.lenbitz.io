@@ -43,7 +43,12 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+  
+  
 # These are to be excluded
 exclude:
   - Gemfile
