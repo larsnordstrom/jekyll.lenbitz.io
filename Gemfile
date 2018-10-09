@@ -15,7 +15,7 @@ gem "jekyll", "~> 3.7"
 gem "minima", "~> 2.0"
 
 # 
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 4.1.2'
 
 #
 gem "jekyll-admin", ">= 0.7.0", group: :jekyll_plugins
